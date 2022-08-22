@@ -1,0 +1,19 @@
+.header {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-family: 'Roboto', 'sans-serif';
+    font-weight: 700;
+    background-color: #1f2937;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+.divider {
+    color: #e5e7eb;
+    font-size: 18px;
+    font-family: 'Roboto', 'sans-serif';
+    display: flex;
+    margin-left: 1375px;
+    gap: 35px;
+
+}
