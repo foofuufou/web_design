@@ -8,12 +8,29 @@
     padding: 10px;
     justify-content: center;
 }
+
 .divider {
     color: #e5e7eb;
     font-size: 18px;
     font-family: 'Roboto', 'sans-serif';
+
     display: flex;
     margin-left: 1375px;
     gap: 35px;
+    justify-content: space-evenly;
+}
+
+.hero-main {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 800;
+    display: flex;
+}
+
+.container {
+    color: #e5e7eb;
+    font-size: 18px;
+    font-weight: 400;
+    display: flex;
 
 }
