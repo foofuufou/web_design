@@ -30,19 +30,41 @@ li {
 .hero-main {
     font-size: 48px;
     font-weight: 800;
+    margin-left: 250px;
     color:#f9faf8;
 
 }
 
 .container {
     font-size: 18px;
+    padding: 10px;
+    margin-left: -1155px;
+    margin-top: -300px;
+    inline-size: 700px;
+    overflow-wrap: break-word;
     color: #e5e7eb;
-
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 .black {
-    max-width: 700px;
-    max-height: 450px;
+    height: 340px;
+    width: 700px;
+    margin-left: 1150px;
+    margin-top: -50px;
+    flex-wrap: wrap;
+}
+
+.button {
+    background-color: #3882f6;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
 }
 
 img {
